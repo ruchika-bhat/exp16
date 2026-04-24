@@ -1,9 +1,4 @@
 
-## Lab Report: NLP Techniques on Text Data
-**Student Name:** Riya Latkar
-**PRN:** 25070123092
-**Experiment No:** 16
-
 ### 1. Aim
 To implement fundamental Natural Language Processing (NLP) techniques such as Tokenization, Stop Word Removal, Stemming, Lemmatization, and POS Tagging using the `nltk` library in Python.
 
